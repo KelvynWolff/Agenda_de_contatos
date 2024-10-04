@@ -27,4 +27,4 @@ Este é um aplicativo de **Agenda de Contatos** desenvolvido em **Flutter**. O o
 1. **Clone este repositório**:
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/KelvynWolff/Agenda_de_contatos.git
